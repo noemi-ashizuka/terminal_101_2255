@@ -1,0 +1,16 @@
+pwd -> present working directory (Where am I?)
+ls OR ll -> list everything inside of the current folder
+cd folder_name -> moves to that folder
+cd .. -> moves up one folder
+mkdir new_folder_name -> creates a new directory
+touch filename.ext -> creates a file
+rm filename -> removes a file
+rm -rf folder_name -> removes a directory
+cat filename -> print the content of a file in the terminal
+clear -> cleans the terminal window/ cmd + k
+mv filename folder -> moves the file into the folder
+mv filename new_filename -> renames the file
+code . -> opens current folder in vs code
+open . -> open file in file finder (mac)
+explorer.exe . -> open file in file explorer (windows)
+wslview . -> open file in file explorer (windows)
