@@ -1,0 +1,12 @@
+git init -> to start tracking a project folder using git
+git status -> checks what files have been changed
+git add filename
+git commit -m "meaningful message"
+-> create a 'savepoint'
+git push origin master
+-> send the code to github
+git diff filename -> checks the changes since the last commit
+git log -> see the long list of all the commits
+git lg -> see the short list of all the commits
+git remote -v -> checks the connections to remote repositories
+gh repo create -> create a new github repository
